@@ -13,7 +13,6 @@ Este proyecto es un sistema experto desarrollado en CLIPS como parte del Hands-o
 ### 📁 Estructura del Proyecto
 
 - `facts.clp`: Contiene los hechos base del sistema (clientes, productos, órdenes, etc.).
-- `persons.clp`: Define datos de los usuarios involucrados.
 - `rules.clp`: Reglas de inferencia para procesar descuentos y promociones.
 - `templates.clp`: Estructura de los hechos mediante `deftemplate`.
 - `run.clp`: Ejecuta el sistema cargando los archivos anteriores.

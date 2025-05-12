@@ -1,5 +1,4 @@
 # Sistemas_Basados_en_el_Conocimiento
-# Sistemas_Basados_en_el_Conocimiento
 
 Este repositorio contiene los hands-on desarrollados en la materia **Sistemas Basados en el Conocimiento** del programa de Ingeniería en Informática.
 
